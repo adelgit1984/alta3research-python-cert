@@ -2,7 +2,6 @@
 
 # mycode (Rock/Paper/Scissors)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
 How to build a rock/paper/scissors program.
 
 ## Getting Started
