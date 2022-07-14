@@ -11,13 +11,12 @@ Copy, paste, and run.
 
 ### Prerequisites
 
-What things are needed to install the software and how to install them. For now, maybe copy in
-"how to install python and python3 using apt."
+Your preferred Python IDE
 
 ## Built With
 
-* [Python](https://www.python.org/) - The coding language used
+[Python](https://www.python.org/) - The coding language used
 
 ## Authors
 
-* **Anthony D** - *Initial work* - [YourWebsite](https://example.com/)
+Anthony
