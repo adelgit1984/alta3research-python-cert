@@ -14,7 +14,7 @@ Your preferred Python IDE
 
 ## Built With
 
-[Python](https://www.python.org/) - The coding language used
+[Python](https://www.python.org/)
 
 ## Authors
 
