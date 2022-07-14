@@ -1,15 +1,13 @@
 # alta3research-python-cert
 
-# mycode (Project Title)
+# mycode (Rock/Paper/Scissors)
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
-What is the purpose of putting up this repo?
+How to build a rock/paper/scissors program.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine
-for development and testing purposes. See deployment for notes on how to deploy the project
-on a live system.
+Copy, paste, and run.
 
 ### Prerequisites
 
@@ -22,4 +20,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+* **Anthony D** - *Initial work* - [YourWebsite](https://example.com/)
