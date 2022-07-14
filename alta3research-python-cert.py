@@ -45,7 +45,7 @@ while True:
     print("You lost.")
     computer_wins += 1
 
-# print result of how many times user won, how many times computer won
+# when user quits, print result of how many times user won, how many times computer won
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
 print("See you next time, " + username + ". Thank you for playing my program!")
